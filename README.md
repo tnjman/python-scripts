@@ -1,3 +1,3 @@
 # python-scripts
-Python scripts
-Just a repos for Python scripts (v3 and higher)
+Python scripts,
+This is just a repos for Python scripts (v3 and higher)
